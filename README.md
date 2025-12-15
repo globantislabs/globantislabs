@@ -1,5 +1,13 @@
 # React + Vite
 
+## 🚀 Live Demo
+
+Check out the live deployment of this project:
+
+[![Website Preview: Globant IS Labs](YOUR_SCREENSHOT_IMAGE_URL_HERE)](https://globantislabs.netlify.app/)
+
+---
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
